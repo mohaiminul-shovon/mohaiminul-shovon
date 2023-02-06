@@ -34,6 +34,10 @@ I am also providing service for full proof software testing solutions along with
 
 For any collaboration or service, you can reach me on my <a href = "mi.shovon23@gmail.com"> E-mail </a> address
 
+<a href="https://www.buymeacoffee.com/mishovon23" rel="nofollow">
+<img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="40" width="170" style="max-width: 100%;">
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MohaiminulShov2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
