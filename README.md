@@ -32,7 +32,7 @@ I am also providing service for full proof software testing solutions along with
 - API testing and automation of test suite.
 - Web UI automation.
 
-For any collaboration or service, you can reach me on my <a href = "mi.shovon23@gmail.com"> E-mail </a> address
+For any collaboration or service, you can reach me on my <a href = "mailto: mi.shovon23@gmail.com"> Email </a> address
 
 <a href="https://www.buymeacoffee.com/mishovon23" rel="nofollow">
 <img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="40" width="170" style="max-width: 100%;">
