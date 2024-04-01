@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <img src="header.png" width=1000 height=400/>
 I am a Software QA professional, working in different industry for more than three years now. I am an ISTQB ® Certified tester which I achieved in 2019. 
 
-🔭 Currently I am working as a Software QA Engineer in Norway based company in Bangladesh. I have been working in debt collection project with a norwaegian client. I am responsible for executing manual test, api test, database test, and documenting the product requirements. 
+🔭 Currently I am working as a Software QA Engineer in Norway based company in Bangladesh. I have worked in a debt collection project with a norwaegian client named as TK Helse. I am responsible for executing functional test, api test, database test, and documenting the product requirements. I have also worked with NTB tenchonology team where I worked in there API automation monitoring project.  
 
-🌱 I have started to work and learn about the automation scripting with python and trying to configure the script in my test suite. I have some experience in working with api automation using Rest Assured and Java, but now I want do it with python.
+🌱 I have worked numerous API automation framework such as RestAssured and KARATE DSL along with Postman. I have successfully completed a whole automation script with KARATE framework with JAVA spring boot along with gradle. I have also completed a small automation project with RestAssured framework with JAVA. 
 
-Some of my previous works are in this github profile. You can check them out and make contributions also if you like. It's not that much completed yet. I am making new changes and commits everyday now. 
+Some of my previous works are in this github profile. You can check them out and make contributions also if you like. All of these are just for demo my works. I am still making contributions every now and then. 
 
 I am also writing about my learning in Medium and on my Linkedin profile. You can check them out by connecting with me over <a href="https://www.linkedin.com/in/m-mohaiminul-islam-7a9ab8125/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
