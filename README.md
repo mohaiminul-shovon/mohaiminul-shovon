@@ -1,42 +1,54 @@
 
-<!--
-**mohaiminul-shovon/mohaiminul-shovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👋 Hey there! I'm **Mohaiminul Shovon**
+✨ _A passionate Software QA Engineer with a knack for automation and ensuring top-notch quality._ ✨  
+I have over 5 years of experience across diverse industries, crafting reliable testing solutions and collaborating on dynamic projects.
+---
+### 🚀 **About Me**
+- 🛠 **Currently Working**: As a **Software QA Engineer** at Cefalo Bangladesh, contributing to:
+  - Functional, API, and regression testing.
+  - Documentation of product requirements.
+  - Notable projects include **TK Helse** (Debt Collection) and **NTB's API Automation Monitoring**.
+  
+- 💼 **Certifications**: Proud **ISTQB® Certified Tester** since 2019.  
+- 💻 **Tech Stack**: Specialized in:
+  - **API Automation**: Karate DSL, RestAssured, Postman.
+  - **Frameworks**: Java Spring Boot, Gradle.
+  - **Tools**: Selenium, Playwright, Jenkins, Git.
+  - **Performance Test**: Jmeter.
+  - **Programming Language**: Java, Typescript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="header.png" width=1000 height=400/>
-I am a Software QA professional, working in different industry for more than three years now. I am an ISTQB ® Certified tester which I achieved in 2019. 
+---
 
-🔭 Currently I am working as a Software QA Engineer in Norway based company in Bangladesh. I have worked in a debt collection project with a norwaegian client named as TK Helse. I am responsible for executing functional test, api test, database test, and documenting the product requirements. I have also worked with NTB tenchonology team where I worked in there API automation monitoring project.  
+### 🛠 **My Contributions**
+Some highlights of my work include:
+- 💡 A complete automation framework for APIs using **Karate DSL** in Spring boot project.
+- 🔬 A small-scale **RestAssured automation project** in Java.
+- 📂 Check out my [repositories](https://github.com/mohaiminul-shovon?tab=repositories) for detailed demos and feel free to contribute!  
 
-🌱 I have worked numerous API automation framework such as RestAssured and KARATE DSL along with Postman. I have successfully completed a whole automation script with KARATE framework with JAVA spring boot along with gradle. I have also completed a small automation project with RestAssured framework with JAVA. 
+---
 
-Some of my previous works are in this github profile. You can check them out and make contributions also if you like. All of these are just for demo my works. I am still making contributions every now and then. 
+### ✍️ **Writing & Sharing Knowledge**
+I actively share my learnings on:
+- **[Medium](https://medium.com/@mi.shovon23)**: In-depth articles on QA techniques and tools.
+- **[LinkedIn](https://www.linkedin.com/in/m-mohaiminul-islam-7a9ab8125/)**: Quick tips and professional insights.
 
-I am also writing about my learning in Medium and on my Linkedin profile. You can check them out by connecting with me over <a href="https://www.linkedin.com/in/m-mohaiminul-islam-7a9ab8125/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+---
 
-I am also providing service for full proof software testing solutions along with 
-- Test plan and Test case generation
-- Test execution on mobile application and web based application.
-- Product requirement documents and functional documents.
-- Bug report and defect management.
-- API testing and automation of test suite.
-- Web UI automation.
+### 📢 **Services I Offer**
+- 📝 Test Plan and Test Case Generation  
+- 🧪 Manual & Automation Testing for Web and Mobile Applications  
+- 🖋 Product Requirement and Functional Documentation  
+- 🐞 Bug Reporting and Defect Management  
+- 🌐 API and Web UI Automation  
 
-For any collaboration or service, you can reach me on my <a href = "mailto: mi.shovon23@gmail.com"> Email </a> address
+Looking to collaborate or need QA expertise? Let’s talk! Reach me via [Email](mailto:mi.shovon23@gmail.com).
+---
+### ☕ **Buy Me a Coffee**
+If you like my work and want to support me:  
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/mishovon23)
 
-<a href="https://www.buymeacoffee.com/mishovon23" rel="nofollow">
-<img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="40" width="170" style="max-width: 100%;">
-</a>
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
