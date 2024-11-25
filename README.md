@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="header.png" alt="Welcome Banner" width="1000" height="400"/>
+</p>
 
 ### 👋 Hey there! I'm **Mohaiminul Shovon**
 ✨ _A passionate Software QA Engineer with a knack for automation and ensuring top-notch quality._ ✨  
