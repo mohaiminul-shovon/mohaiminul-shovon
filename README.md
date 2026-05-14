@@ -2,60 +2,109 @@
   <img src="header.png" alt="Welcome Banner" width="1000" height="400"/>
 </p>
 
-### 👋 Hey there! I'm **Mohaiminul Shovon**
-✨ _A passionate Software QA Engineer with a knack for automation and ensuring top-notch quality._ ✨  
-I have over 5 years of experience across diverse industries, crafting reliable testing solutions and collaborating on dynamic projects.
----
-### 🚀 **About Me**
-- 🛠 **Currently Working**: As a **Software QA Engineer** at Cefalo Bangladesh, contributing to:
-  - Functional, API, and regression testing.
-  - Documentation of product requirements.
-  - Notable projects include **TK Helse** (Debt Collection) and **NTB's API Automation Monitoring**.
-  
-- 💼 **Certifications**: Proud **ISTQB® Certified Tester** since 2019.  
-- 💻 **Tech Stack**: Specialized in:
-  - **API Automation**: Karate DSL, RestAssured, Postman.
-  - **Frameworks**: Java Spring Boot, Gradle.
-  - **Tools**: Selenium, Playwright, Jenkins, Git.
-  - **Performance Test**: Jmeter.
-  - **Programming Language**: Java, Typescript.
+<h1 align="center">Mohaiminul Shovon</h1>
 
----
-
-### 🛠 **My Contributions**
-Some highlights of my work include:
-- 💡 A complete automation framework for APIs using **Karate DSL** in Spring boot project.
-- 🔬 A small-scale **RestAssured automation project** in Java.
-- 📂 Check out my [repositories](https://github.com/mohaiminul-shovon?tab=repositories) for detailed demos and feel free to contribute!  
-
----
-
-### ✍️ **Writing & Sharing Knowledge**
-I actively share my learnings on:
-- **[Medium](https://medium.com/@mi.shovon23)**: In-depth articles on QA techniques and tools.
-- **[LinkedIn](https://www.linkedin.com/in/m-mohaiminul-islam-7a9ab8125/)**: Quick tips and professional insights.
-
----
-
-### 📢 **Services I Offer**
-- 📝 Test Plan and Test Case Generation  
-- 🧪 Manual & Automation Testing for Web and Mobile Applications  
-- 🖋 Product Requirement and Functional Documentation  
-- 🐞 Bug Reporting and Defect Management  
-- 🌐 API and Web UI Automation  
-
-Looking to collaborate or need QA expertise? Let’s talk! Reach me via [Email](mailto:mi.shovon23@gmail.com).
----
-### ☕ **Buy Me a Coffee**
-If you like my work and want to support me:  
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/mishovon23)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/MohaiminulShov2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/m-mohaiminul-islam-7a9ab8125/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://medium.com/@mi.shovon23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~0154880c350d3c4459" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="" height="30" width="40" /></a>
+<p align="center">
+Senior Software QA Engineer • Automation Architect • Technical Business Analyst
 </p>
+
+---
+
+## About Me
+
+I’m a Senior Software QA Engineer with 5+ years of experience building scalable quality assurance solutions across web, mobile, and API platforms.
+
+My expertise spans automation engineering, quality strategy, product analysis, and cross-functional collaboration. I work closely with developers, product owners, and stakeholders to ensure reliable software delivery while aligning technical implementation with business requirements.
+
+Currently working at Cefalo Bangladesh, contributing to enterprise-grade platforms through:
+- End-to-end test automation
+- API quality monitoring
+- Functional and regression testing
+- Requirement analysis and technical documentation
+- CI/CD quality integration
+
+---
+
+## Core Expertise
+
+### Test Automation
+- Playwright + TypeScript
+- Selenium
+- Karate DSL
+- RestAssured
+- Postman & Newman
+
+### QA Engineering
+- API Testing
+- UI Automation
+- Regression Testing
+- Functional Testing
+- Mobile App Testing
+- Performance Testing with JMeter
+
+### Technical & Business Analysis
+- Requirement Analysis
+- Product Documentation
+- Test Strategy Design
+- Defect Lifecycle Management
+- Agile Collaboration
+- Business Flow Validation
+
+### Engineering & Tools
+- Java
+- TypeScript
+- Spring Boot
+- Gradle
+- Jenkins
+- GitHub Actions
+- Git
+
+---
+
+## Featured Work
+
+### API Automation Framework
+Designed and implemented a scalable API automation framework using Karate DSL integrated within Spring Boot environments.
+
+### Playwright Automation Architecture
+Built modular UI automation solutions using Playwright and TypeScript with scalable reporting and CI integration.
+
+### API Monitoring & Quality Validation
+Worked on API monitoring and automated validation systems for enterprise-level services.
+
+### Product & Requirement Analysis
+Collaborated closely with product and engineering teams to refine business requirements into testable workflows and technical documentation.
+
+---
+
+## Certifications
+
+- ISTQB® Certified Tester
+
+---
+
+## Writing & Knowledge Sharing
+
+- Medium: https://medium.com/@mi.shovon23
+- LinkedIn: https://www.linkedin.com/in/m-mohaiminul-islam-7a9ab8125/
+
+I regularly share insights on automation engineering, QA strategy, testing frameworks, and software quality practices.
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/m-mohaiminul-islam-7a9ab8125" target="blank">LinkedIn</a> •
+<a href="https://medium.com/@mi.shovon23" target="blank">Medium</a> •
+<a href="https://twitter.com/MohaiminulShov2" target="blank">Twitter</a> •
+<a href="https://www.upwork.com/freelancers/~0154880c350d3c4459" target="blank">Upwork</a>
+</p>
+
+---
+
+## Contact
+
+📫 Email: mi.shovon23@gmail.com
+
+Open to collaboration, consulting, automation architecture discussions, and quality engineering opportunities.
